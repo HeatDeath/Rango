@@ -1,0 +1,6 @@
+/db.sqlite3
+populate_rango.pyc
+rango/forms.pyc
+rango/tests.pyc
+static/css/
+static/js/
